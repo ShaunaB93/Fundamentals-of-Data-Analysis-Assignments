@@ -1,0 +1,39 @@
+Plan of tasks for assignemnt -
+
+1) Download the Anscombe's quartet dataset -  R data sets. Anscombe’s quartet of identical simple linear regressions. https://vincentarelbundock.github.io/Rdatasets/csv/datasets/anscombe. csv.
+
+2) Create the jupyter notebook for analysis
+
+3) Task 1) Explain background
+	A) Who created it
+	B) When created
+	C) Speculation regarding how it have may been created
+
+4) Task 2)Plots
+	A) Look up various plots plus note the code
+	B) Source similar projects to see plots used and reasons
+	C) Write code for plots this dataset
+
+5) Calculate the descriptive statistics of the variables in the dataset
+	A)Look up various possible descriptive statistics plus note the code
+	B)Source similar projects to see plots used and reasons
+	C) Write code for plots this dataset
+
+6) Write summary
+	A) Why the dataset is interesting
+	B) Refer to plots and statistics used to crate argument for why it is interesting
+
+7) Compile reference list and reference the notebook
+
+8) Clean up markdown and analysis into final jupyter notebook for submission
+
+9) Confirm README file
+	A) Write explanation of of what is contained in the main body of work
+	B) Add how to run jupyter notebook to README
+
+
+
+
+
+Resource links for references for assignment -
+
